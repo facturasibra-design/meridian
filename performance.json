@@ -6,26 +6,26 @@
   "snapshots": [
     {
       "date": "2026-04-01",
-      "daily_pct": 0.0,
-      "cumulative_pct": 0.0,
-      "weighted": false
+      "daily_pct": 1.965,
+      "cumulative_pct": 1.965,
+      "weighted": true
     },
     {
       "date": "2026-04-02",
-      "daily_pct": 0.709,
-      "cumulative_pct": 0.709,
-      "weighted": false
+      "daily_pct": 0.423,
+      "cumulative_pct": 2.388,
+      "weighted": true
     },
     {
       "date": "2026-04-03",
-      "daily_pct": 0.958,
-      "cumulative_pct": 1.674,
-      "weighted": false
+      "daily_pct": 0.570,
+      "cumulative_pct": 2.958,
+      "weighted": true
     },
     {
       "date": "2026-04-04",
-      "daily_pct": 0.1942,
-      "cumulative_pct": 1.8682,
+      "daily_pct": 0.194,
+      "cumulative_pct": 3.152,
       "weighted": true
     }
   ]
