@@ -2,7 +2,7 @@
   "strategy": "Meridian",
   "inception_date": "2026-04-01",
   "weight_factor": 0.6,
-  "last_updated": "2026-11-20T21:30:01.302222+00:00",
+  "last_updated": "2026-11-21T21:30:01.625847+00:00",
   "snapshots": [
     {
       "date": "2026-04-01",
@@ -1406,6 +1406,12 @@
       "date": "2026-11-20",
       "daily_pct": 1.2681,
       "cumulative_pct": -572.2074,
+      "weighted": true
+    },
+    {
+      "date": "2026-11-21",
+      "daily_pct": -4.2883,
+      "cumulative_pct": -576.4957,
       "weighted": true
     }
   ]
